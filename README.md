@@ -20,8 +20,10 @@
 <h2>Certifications:</h2>
 
 - <b>Vendor Neutral</b>
-  - [Project Management Professional (PMP)](https://www.credly.com/badges/3406245f-fec3-4de9-80d4-99cba8d43cb2/public_url)
+  - [Project Management Professional (PMP) | PMI](https://www.credly.com/badges/3406245f-fec3-4de9-80d4-99cba8d43cb2/public_url)
   - [CompTIA Security+](https://www.credly.com/badges/583e071e-e837-4ddb-9716-a04ab08980b2)
+  - [Python (Basic) Certificate | HackerRank](https://www.hackerrank.com/certificates/d658aeac93c4)
+  - [SQL (Basic) Certificate | HackerRank](https://www.hackerrank.com/certificates/844cfa8d37b7)
 - <b>Cisco</b>
   - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/381aa44b-63be-43f1-8075-b698e37f9a94/public_url)
 - <b>Google</b>
