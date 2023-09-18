@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Active Directory Homelab]()
+  - [Active Directory Homelab](https://github.com/jevans110/IT-Support-Active-Directory-Home-Lab)
 - <b>Cybersecurity Tool Labs</b>
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/CCD4EU3EMWM6)
   - [Finding a Needle in a Haystack: Use Wireshark to Discover Evidence of Network Attacks]()
@@ -15,7 +15,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Kanban Calculator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Kanban Calculator](https://github.com/jevans110/Python-Kanban-Calculator)
 
 <h2>Certifications:</h2>
 
